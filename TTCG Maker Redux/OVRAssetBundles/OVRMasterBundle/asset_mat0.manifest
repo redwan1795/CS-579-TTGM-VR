@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4286043038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae688f741c5a4deaf89910cfd7bcb1af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/stabman.mat
+- Assets/Materials/treeTexture.mat
+- Assets/Materials/effectsCube.mat
+- Assets/Materials/heroCube.mat
+- Assets/Materials/terrainCube.mat
+- Assets/Materials/texture_grass.mat
+- Assets/Materials/snowmanCube.mat
+- Assets/Materials/texture_seamless_brushed-metal.mat
+Dependencies:
+- D:/NMSU/SEM02/CS579/TTTG-3-31/TTCG Maker Redux/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/NMSU/SEM02/CS579/TTTG-3-31/TTCG Maker Redux/OVRAssetBundles/OVRMasterBundle/asset_jpg0

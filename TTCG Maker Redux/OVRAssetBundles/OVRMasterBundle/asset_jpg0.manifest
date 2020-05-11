@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3546187053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c25a24961790b92b6e0e266ac981accf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/texture_grass.jpg
+- Assets/Textures/treeTexture.jpg
+- Assets/Textures/texture_seamless_brushed-metal.jpg
+- Assets/Textures/snowmanCube.jpg
+- Assets/Textures/sunCube.jpg
+Dependencies: []
